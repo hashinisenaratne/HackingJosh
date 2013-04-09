@@ -1,0 +1,1 @@
+Implementing a new command for Josh operating system which prints hardware information about the computer.
